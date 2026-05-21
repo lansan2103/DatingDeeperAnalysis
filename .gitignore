@@ -3,7 +3,6 @@ Meetings/
 5726*.txt
 
 # Generated outputs — reproducible from scripts, no need to version
-*.csv
 
 # Python
 __pycache__/
