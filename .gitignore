@@ -1,0 +1,27 @@
+# Raw data — transcripts stay local (participant privacy)
+Meetings/
+5726*.txt
+
+# Generated outputs — reproducible from scripts, no need to version
+*.csv
+Graphs/
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Editor / OS
+.claude/
+.env
+*.DS_Store
+Thumbs.db
