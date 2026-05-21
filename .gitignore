@@ -4,8 +4,6 @@ Meetings/
 
 # Generated outputs — reproducible from scripts, no need to version
 *.csv
-Graphs/
-*.png
 
 # Python
 __pycache__/
